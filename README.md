@@ -1,6 +1,6 @@
 # app
 
-> 记事本
+> vue记事本
 
 ## Build Setup
 
