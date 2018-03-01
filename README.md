@@ -1,6 +1,6 @@
 # app
 
-> A Vue.js project
+> 记事本
 
 ## Build Setup
 
